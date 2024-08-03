@@ -1,0 +1,98 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/signup/page.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__sBd1c {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.page_containerHeading__i31YH{
+    font-size: xx-large;
+    font-weight: 700;
+    color: black;
+}
+
+.page_containerImage__G_XUT{
+    height: 40%;
+}
+
+.page_inputArea__eksLO{
+    width: 24%;
+    padding: 30px;
+    color: black;
+}
+
+.page_buttonArea__Lzdpv{
+    width: 20%;
+    color: white;
+    font-size: medium;
+    font-weight: normal;
+    margin-left: 20px;
+}
+
+.page_container__sBd1c p{
+    font-size: 12px;
+    padding: 10px;
+}
+
+.page_container__sBd1c a{
+    color: #0fa37f;
+}
+
+.page_line__AQJ1v{
+    width: 100%;
+    color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.page_or__6LGpQ{
+    display: flex;
+    flex-direction: row;
+    width: 21%;
+    font-size: small;
+    color: grey;
+}
+
+.page_providers__iy4Fj{
+    margin: 20px;
+    width: 20%;
+}
+.page_container__sBd1c p{
+    font-size: 12px;
+    padding: 10px;
+    color: black;
+}
+.page_providerGoogle__CEgzb{
+    border: 0.5px solid grey;
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    width: 100%;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.page_providerGoogle__CEgzb p{
+    font-size: small;
+    padding-left: 10px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.page_providerGoogle__CEgzb img{
+    width: 10%;
+    height: 10%;
+    padding-left: 10px;
+}
+
+.page_inputArea__eksLO input{
+    margin: 10px;
+    background-color: white;
+}
+

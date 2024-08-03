@@ -1,0 +1,70 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[7].use[3]!./src/app/aboutyou/page.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__lwH1i {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: white;
+}
+
+.page_containerImage__diUDp{
+    height: 40%;
+}
+
+.page_containerHeading__aT_sw{
+    font-size: xx-large;
+    font-weight: 700;
+    color: black;
+}
+
+.page_inputArea___PS9c{
+    display: flex;
+    flex-direction: row;
+    width: 35%;
+    background-color: white;
+    color: black;
+}
+.page_inputArea___PS9c input{
+    margin: 5px;
+    background-color: white;
+    color: black;
+}
+
+.page_inputWithIcon__hT2K7 {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  
+  .page_dateInput__G73pN {
+    padding-right: 30px; /* Add some padding to the right to avoid text overlap with the icon */
+  }
+  .page_buttonArea__nYigB{
+    color: white;
+    width: 34.5%;
+    font-weight: normal;
+  }
+  .page_description__mO2wm{
+    font-size: small;
+    color: gray;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .page_description__mO2wm a{
+    color: #0fa37f;
+  }
+
+  .page_footer__rlF9l{
+    height: 10%;
+    align-items: center;
+    justify-content: center;
+    font-size: small;
+  }
+  
+  .page_footer__rlF9l a{
+    color: #0fa37f;
+  }
